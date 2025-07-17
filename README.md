@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kristofferv98-mcp-calender-agent-badge.png)](https://mseep.ai/app/kristofferv98-mcp-calender-agent)
+
 # MCP iCal Server
 
 <div align="center">
